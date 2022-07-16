@@ -1,5 +1,5 @@
-[<img src="" alt="👋 Hi there! I'm Nitesh Jha|https://niteshjha08.github.io" title="👋 Hi there! I'm Nitesh Jha|https://niteshjha08.github.io"/>](https://niteshjha08.github.io/)
-### Hi there, I'm Nitesh Jha 👋
+[<img src="https://github.com/niteshjha08/niteshjha08/blob/main/media/intro.gif" alt="👋 Hi there! I'm Nitesh Jha | https://niteshjha08.github.io" title="👋 Hi there! I'm Nitesh Jha | https://niteshjha08.github.io"/>](https://niteshjha08.github.io/)
+
 - 🏫 I’m a Robotics Master's student at University of Maryland, College Park
 - 👀 I’m interested in Robotics, Computer Vision and AI
 - 📫 Reach me at niteshj818@gmail.com
